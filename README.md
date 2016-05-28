@@ -1,4 +1,4 @@
-# Default React (v0.1.0)
+# A simple weather report app using React
 
 My basic settings of react.
 
